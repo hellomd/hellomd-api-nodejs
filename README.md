@@ -21,7 +21,7 @@ var options = {
 
 var hellomd = new HelloMD(options);
 
-hellomd.getPatient("a_patient_number").then(function(res){
+hellomd.getUser("userId").then(function(res){
   // res returns the patient json
 }, function(err) {
   // err contains error information when an error occurs
