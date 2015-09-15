@@ -1,6 +1,6 @@
 {
   "name": "hellomd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An NodeJS API client for HelloMD.com",
   "keywords": [
     "api",
